@@ -19,7 +19,7 @@ I am a motivated Computer Science student with a strong interest in <strong>Java
 I enjoy building clean, well-structured projects and continuously improving my skills through hands-on practice.
 <br><br>
 🔹 Main focus: <strong>Java & Spring</strong>  
-🔹 Experience with: C++, C, Rust, Lex/Yacc  
+🔹 Experience with: C++, C, Rust
 🔹 Web basics: HTML, CSS, SQL  
 <br><br>
 🎯 My goal is to grow as a software developer by building meaningful projects and preparing for internships and real-world challenges.
