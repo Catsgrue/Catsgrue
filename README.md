@@ -19,7 +19,7 @@ My academic background provided me with a strong foundation in Data Structures, 
 <p align="left">
 <b>🛠️ Tech Stack & Skills:</b><br>
 🔹 <strong>Backend Ecosystem:</strong> Java, Spring Boot, Spring Data JPA, REST APIs <br>
-🔹 <strong>Databases:</strong> Oracle SQL & PL/SQL
+🔹 <strong>Databases:</strong> Oracle SQL & PL/SQL <br>
 🔹 <strong>Academic Background:</strong> C, C++, Rust (Data Structures, OOP, Core Concepts, Memory Management) <br>
 🔹 <strong>Tools & Practices:</strong> Git, Postman, Clean Code principles
 </p>
