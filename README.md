@@ -26,7 +26,7 @@ My academic background provided me with a strong foundation in Data Structures, 
 
 <p align="left">
 📫 <strong>Let's connect:</strong> 
-<a href="mailto:brianamihaelatudor@gmail.com">Email</a> | 
+<a href="mailto: brianamihaelatudor@gmail.com">Email</a> | 
 <a href="https://www.linkedin.com/in/briana-tudor-115a4234b/">LinkedIn</a>
 </p>
 
