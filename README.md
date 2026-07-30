@@ -19,15 +19,15 @@ My academic background provided me with a strong foundation in Data Structures, 
 <p align="left">
 <b>🛠️ Tech Stack & Skills:</b><br>
 🔹 <strong>Backend Ecosystem:</strong> Java, Spring Boot, Spring Data JPA, REST APIs <br>
-🔹 <strong>Databases:</strong> SQL (MySQL / PostgreSQL) <br>
-🔹 <strong>Academic Background:</strong> C, C++, Rust (System-level programming, Memory Management) <br>
+🔹 <strong>Databases:</strong> Oracle SQL & PL/SQL
+🔹 <strong>Academic Background:</strong> C, C++, Rust (Data Structures, OOP, Core Concepts, Memory Management) <br>
 🔹 <strong>Tools & Practices:</strong> Git, Postman, Clean Code principles
 </p>
 
 <p align="left">
-📫 <strong>Let's connect:</strong> 
-<a href="mailto:brianamihaelatudor@gmail.com">Email</a> | 
-<a href="https://www.linkedin.com/in/briana-tudor-115a4234b/">LinkedIn</a>
+📫 <strong>Let's connect:</strong> <br>
+📧 <strong>Email:</strong> brianamihaelatudor@gmail.com <br>
+🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/briana-tudor-115a4234b/">Briana Tudor</a>
 </p>
 
 ---
@@ -39,7 +39,7 @@ My academic background provided me with a strong foundation in Data Structures, 
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
   <img width="15" />
