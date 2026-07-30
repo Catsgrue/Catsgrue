@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Java Backend Developer</strong> | Computer Science @ UAIC Iași
+  <strong>Java Backend Developer</strong> | Computer Science @ UAIC Iasi
 </p>
 
 ---
@@ -11,7 +11,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-I am a Software Engineer focused on backend development, currently finalizing my Computer Science degree at the Faculty of Computer Science in Iași. I specialize in the <strong>Java/Spring ecosystem</strong>, building RESTful APIs, managing relational databases, and implementing scalable application logic.
+I am a Software Engineer focused on backend development, currently finalizing my Computer Science degree at the Faculty of Computer Science in Iasi. I specialize in the <strong>Java/Spring ecosystem</strong>, building RESTful APIs, managing relational databases, and implementing scalable application logic.
 <br><br>
 My academic background provided me with a strong foundation in Data Structures, Algorithms, and OOP, which I now apply to real-world backend architectures. I am actively looking for a <strong>full-time Junior Java Developer</strong> role where I can contribute to complex systems and deliver production-ready code.
 </p>
