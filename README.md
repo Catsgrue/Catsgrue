@@ -1,50 +1,49 @@
 <h1 align="center">
-  Hello! 👋 <br>
-  I'm Tudor Briana-Mihaela
+  Hi, I'm Briana Tudor 👋
 </h1>
 
 <p align="center">
-  Computer Science student @ Faculty of Computer Science, Iași 💻 <br>
-  Aspiring <strong>Java & Spring Developer</strong>
+  <strong>Java Backend Developer</strong> | Computer Science @ UAIC Iași
 </p>
 
 ---
 
-<h2 align="left">About me</h2>
-
-<img align="right" height="200" src="https://media.tenor.com/4HB9Nz7r4PsAAAAj/java-coffee.gif" />
+<h2 align="left">About Me</h2>
 
 <p align="left">
-I am a motivated Computer Science student with a strong interest in <strong>Java development</strong> and backend technologies.  
-I enjoy building clean, well-structured projects and continuously improving my skills through hands-on practice.
+I am a Software Engineer focused on backend development, currently finalizing my Computer Science degree at the Faculty of Computer Science in Iași. I specialize in the <strong>Java/Spring ecosystem</strong>, building RESTful APIs, managing relational databases, and implementing scalable application logic.
 <br><br>
-🔹 Main focus: <strong>Java & Spring</strong>  
-🔹 Experience with: C++, C, Rust
-🔹 Web basics: HTML, CSS, SQL  
-<br><br>
-🎯 My goal is to grow as a software developer by building meaningful projects and preparing for internships and real-world challenges.
-<br><br>
-📫 Contact: <a>brianamihaelatudor@gmail.com</a>
+My academic background provided me with a strong foundation in Data Structures, Algorithms, and OOP, which I now apply to real-world backend architectures. I am actively looking for a <strong>full-time Junior Java Developer</strong> role where I can contribute to complex systems and deliver production-ready code.
+</p>
+
+<p align="left">
+<b>🛠️ Tech Stack & Skills:</b><br>
+🔹 <strong>Backend Ecosystem:</strong> Java, Spring Boot, Spring Data JPA, REST APIs <br>
+🔹 <strong>Databases:</strong> SQL (MySQL / PostgreSQL) <br>
+🔹 <strong>Academic Background:</strong> C, C++, Rust (System-level programming, Memory Management) <br>
+🔹 <strong>Tools & Practices:</strong> Git, Postman, Clean Code principles
+</p>
+
+<p align="left">
+📫 <strong>Let's connect:</strong> 
+<a href="mailto:brianamihaelatudor@gmail.com">Email</a> | 
+<a href="www.linkedin.com/in/briana-tudor-115a4234b">LinkedIn</a>
 </p>
 
 ---
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Technologies & Tools</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/c/original.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="42" alt="Rust"/>
 </div>
